@@ -2,7 +2,7 @@
 
 **index**
 
-- [1.what this firmware update?](#-1what-this-firmware-update)
+- [1.what this firmware update?](#1what-this-firmware-update)
 
 - 2.What this file is type?
 
