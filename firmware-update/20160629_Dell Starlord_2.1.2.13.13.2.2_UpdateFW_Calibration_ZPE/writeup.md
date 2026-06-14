@@ -52,7 +52,17 @@ Date finshed writeup :
 
 **1.4.Why firmware update is dangerous when interupt if it runnings?**
 
+- Basically, when binary running and executing into firmware is perform stage updating the firmware, reason firmware is hardware/chip hardcode in mainboard and into it's many line code used execute bios. When interupt if it runnings perform stage updating and dont finished, consequences is brick, damaged or death the firmware and computer dont reboot, work, ran many hardware different in mainboard because firmware was death
+
 # 2.What this file is type?
+
+**2.1.with file**
+
+**2.2.with strings**
+
+**2.3.with binwalk**
+
+**2.4.checking the file, sha256sum, size**
 
 # 3.Debugging with ghidra
 
