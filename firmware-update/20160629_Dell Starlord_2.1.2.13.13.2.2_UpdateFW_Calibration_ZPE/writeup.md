@@ -40,11 +40,15 @@ Date finshed writeup :
 
 **1.1.What the firmware?**
 
+- firmware is program hardcode in the mainboard, hardware computer. It uses running many code available when computer manufactured and reboot the operating system is BIOS. Here, it executing, controlling and configuring many hardware such as HDD disk, SSD disk, CPU, etc.
+
 **1.2.What firmware update?**
 
-- firmware update is the binary working when loaded it into firmware, can load it with windows or bios (need a USB device)
+- firmware update is the binary working when loaded it into firmware, can load it with windows or bios (need a USB device). It have mission is patch many vulnerabilities, errors and bugs. Make for firmware/bios working stabling and flexiblling better
 
 **1.3.Why we need update the firmware?**
+
+- Basically, we need update the firmware for firmware/bios working stabling and flexiblling better and patched the vulnerabilities and bugs
 
 **1.4.Why firmware update is dangerous when interupt if it runnings?**
 
