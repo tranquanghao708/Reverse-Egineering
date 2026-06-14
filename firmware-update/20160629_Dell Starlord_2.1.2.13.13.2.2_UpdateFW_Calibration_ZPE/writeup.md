@@ -1,8 +1,20 @@
 # Reverse the binary firmware update of DELL
 
+Date starting writeup : 14/6/2026
+
+Date finshed writeup :
+
 **index**
 
 - [1.what this firmware update?](#1what-this-firmware-update)
+
+	- 1.1.What the firmware?
+
+	- 1.2.What firmware update?
+
+	- 1.3.Why we need update the firmware?
+
+	- 1.4.Why firmware update is dangerous when interupt if it runnings?
 
 - [2.What this file is type?](#2What-this-file-is-type)
 
@@ -26,7 +38,15 @@
 
 # 1.what this firmware update?
 
+**1.1.What the firmware?**
+
+**1.2.What firmware update?**
+
 - firmware update is the binary working when loaded it into firmware, can load it with windows or bios (need a USB device)
+
+**1.3.Why we need update the firmware?**
+
+**1.4.Why firmware update is dangerous when interupt if it runnings?**
 
 # 2.What this file is type?
 
