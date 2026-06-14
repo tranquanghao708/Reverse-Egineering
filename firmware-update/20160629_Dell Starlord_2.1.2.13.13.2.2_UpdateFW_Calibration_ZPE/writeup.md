@@ -58,7 +58,35 @@ Date finshed writeup :
 
 **2.1.with file**
 
+- Here, we'll checking the file see what it's type.
+
+> file '20160629_Dell Starlord_2.1.2.13.13.2.2_UpdateFW_Calibration_ZPE.exe'
+
+result
+
+![alt text](image0.png)
+
+here, we see exectaly it's type file for windows operating system and architecture intel i386.
+
 **2.2.with strings**
+
+- Here, we'll can reading what sequences hardcode in the binary
+
+> strings '20160629_Dell Starlord_2.1.2.13.13.2.2_UpdateFW_Calibration_ZPE.exe'
+
+because result to long, we have saved it into file `strings_checking.txt` you can see from it
+
+![alt text](image2.png)
+
+Here, `!This program cannot be run in DOS mode.` is header for seeing it's program for windows, proof
+
+![alt text](image3.png)
+
+it used API call windows
+
+![alt text](image4.png)
+
+And here, we see it hardcode links, copyrights and certifications have many link using protocol http can old binary
 
 **2.3.with binwalk**
 
