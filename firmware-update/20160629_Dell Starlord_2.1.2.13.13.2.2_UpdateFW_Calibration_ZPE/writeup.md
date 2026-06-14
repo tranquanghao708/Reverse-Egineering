@@ -6,11 +6,13 @@
 
 - [2.What this file is type?](#2What-this-file-is-type)
 
-	- 2.1.with file (what this file?)
+	- 2.1.with file **(what this file?)**
 
-	- 2.2.with strings (what data can read hardcode in file?)
+	- 2.2.with strings **(what data can read hardcode in file?)**
 
-	- 2.3.with binwalk (what files hidden in the file binary?)
+	- 2.3.with binwalk **(what files hidden in the file binary?)**
+
+	- 2.4.checking the file, sha256sum, size **(file have breaked or damaged when downloading about my system?)**
 
 - [3.Debugging with ghidra](#3Debugging-with-ghidra)
 	
@@ -23,6 +25,8 @@
 - [4.Debugging with KVM windows10 and see how to works?](#4Debugging-with-KVM-windows10-and-see-how-to-works)
 
 # 1.what this firmware update?
+
+- firmware update is the binary working when loaded it into firmware, can load it with windows or bios (need a USB device)
 
 # 2.What this file is type?
 
